@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Federico!
 
 I'm a passionate **Full Stack Developer** with experience in **Java, Spring Boot, MySQL, HTML, CSS, and JavaScript**. I love building web applications and learning new technologies.
